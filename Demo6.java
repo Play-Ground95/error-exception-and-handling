@@ -21,6 +21,6 @@ public class Demo6 {
             
             System.out.println("throwble");
         }
-        System.out.println("I am about to exit");
+        System.out.println("I am about to exit..");
     }
 }
